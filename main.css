@@ -4,6 +4,10 @@
   
 }
 
+.menu {
+    color: black;
+}
+
 .indexbg {
     background-image: url("_\ \(13\).jpeg");
 }
@@ -12,19 +16,23 @@
     background-image: url("_ (4).jpeg");
 }
 
-p {background-color: ;
+p {
+    background-color: rgba(128, 128, 128, 0.85);
     font-size: 30px
 }
 
 h1 {color: blue;
-text-align: center
-}
+text-align: center;
 font-size:30px;
 }
 
 body {color:orange;
 }
 h2,p {color: orange;
-    text-align: center
-    }
-    font-size:16px;
+    text-align: center;
+    /* font-size:16px; */
+}
+
+.pg3bg {
+   background-image: url("image10.jpeg");
+}
