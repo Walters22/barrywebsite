@@ -2,6 +2,10 @@
     
     /* background-color: brown; */
   
+
+
+
+
 }
 
 .menu {
@@ -9,7 +13,7 @@
 }
 
 .indexbg {
-    background-image: url("_\ \(13\).jpeg");
+    background-image: url("_\ \(3\).jpeg");
 }
 
 .page2bg {
@@ -27,12 +31,24 @@ font-size:30px;
 }
 
 body {color:orange;
+    background-image: url
+    
 }
 h2,p {color: orange;
     text-align: center;
-    /* font-size:16px; */
+   
 }
 
 .pg3bg {
-   background-image: url("image10.jpeg");
-}
+   background-image: url("image9.jpeg");
+
+   
+   /*  */
+
+
+  .page2 {
+      background-image: url("painting1.jpeg");
+      ;
+      background-size: cover;
+      
+  }     
