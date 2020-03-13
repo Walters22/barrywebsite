@@ -40,15 +40,14 @@ h2,p {color: orange;
 }
 
 .pg3bg {
-   background-image: url("image9.jpeg");
+   background-image: url("image9.jpeg");  
+    background-size: cover;
+}   
+    
 
-   
-   /*  */
 
-
-  .page2 {
-      background-image: url("painting1.jpeg");
-      ;
-      background-size: cover;
+.pg4bg {
+      background-image: url("image9.jpeg");
       
-  }     
+      background-size: cover;
+}     
